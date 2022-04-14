@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1733598 on Wed Dec 14 22:35:39 MST 2016
+# IP Build 1731160 on Wed Dec 14 23:47:21 MST 2016
+# Start of session at: Thu Apr 14 15:33:56 2022
+# Process ID: 15392
+# Current directory: C:/Users/a.elkhouly/Desktop/Proj/Proj.runs/impl_1
+# Command line: vivado.exe -log count.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source count.tcl -notrace
+# Log file: C:/Users/a.elkhouly/Desktop/Proj/Proj.runs/impl_1/count.vdi
+# Journal file: C:/Users/a.elkhouly/Desktop/Proj/Proj.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source count.tcl -notrace
